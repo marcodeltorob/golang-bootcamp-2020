@@ -1,0 +1,6 @@
+{
+    "DB_HOSTNAME": "cluster0.xtqpd.mongodb.net",
+    "DB_USER": "go-user",
+    "DB_PASSWORD": "K6lxjEfTbQzBUpLy",
+    "DB_NAME": "weather-app"
+}
